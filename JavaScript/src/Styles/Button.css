@@ -1,0 +1,27 @@
+.button{
+    display: flex;
+    flex: 1 1;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(54, 53, 53);
+    height: 70px;
+    border-radius: 50%;
+    margin: 5px;
+    font-size: 40px;
+    user-select: none;
+}
+.zero{
+    flex: 2;
+    border-radius: 50px;
+    justify-content: flex-start;
+}
+.zero .text-container{
+    margin-left: 30px;
+}
+.operator{
+    background-color: orange;
+}
+.grey{
+    background-color: grey;
+}
