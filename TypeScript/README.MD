@@ -62,11 +62,13 @@ Start the server
 ```bash
 src/
 |-- components/
+|   |-- Button.tsx
+|   |-- Calculator.tsx
 |   |-- Logo.tsx
-|   |-- Counter.tsx
 |-- styles/
+|   |-- Button.css
+|   |-- Calculator.css
 |   |-- Logo.css
-|   |-- Counter.css
 |-- App.css
 |-- App.tsx
 |-- index.css
