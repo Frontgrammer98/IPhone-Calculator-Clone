@@ -75,7 +75,7 @@ src/
 ```
 ## Contact
 
-<img src="../screenshots/relogo.png" alt="Re Developer" width="300">
+<img src="../Screenshots/relogo.png" alt="Re Developer" width="300">
 
 [Ricardo Estrada]
 
