@@ -1,0 +1,31 @@
+.button{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(41, 40, 40);
+    color: white;
+    font-size: 40px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+}
+.operator{
+    background-color: orange;
+    color: white;
+}
+.zero{
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.align-zero{
+    width: 100%;
+    margin-left: 20px;
+}
+
+.grey{
+    background-color: grey;
+    color: black;
+}
