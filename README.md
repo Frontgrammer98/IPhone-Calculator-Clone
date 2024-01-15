@@ -3,7 +3,7 @@
 
 ## Screenshots
 
-![Iphone Calculator Clone JS](/JavaScript/Screenshots/calculator.png)
+![Iphone Calculator Clone JS](./Screenshots//calculator.png)
 
 📱 A precise replica of the iPhone calculator app, meticulously crafted using HTML, CSS, and JavaScript. Experience the familiar design and seamless functionality of the iPhone calculator right in your browser. Perfect for those who appreciate simplicity and elegance in their digital tools.🚀
 
@@ -22,7 +22,7 @@ Select the technology of your interest in the repository folder for more detaile
 
 ## Contact
 
-![RE Developer](./screenshots/relogo.png)
+![RE Developer](./Screenshots/relogo.png)
 
 [Ricardo Estrada]
 
