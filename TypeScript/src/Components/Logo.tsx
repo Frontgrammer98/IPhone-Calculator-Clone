@@ -1,5 +1,5 @@
 import React from 'react';
-import redeveloperlogo from '../Images/relogo.png'; // Importing the logo image
+import redeveloperlogo from '../assets/relogo.png';
 import '../Styles/Logo.css';
 
 // React functional component for the Logo
